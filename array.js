@@ -59,3 +59,8 @@ letters.forEach(function(letter, index){
   var number = index + 1;
   console.log(number + ". " + letter);
 })
+
+function iterateArray(numbers){
+  var newNums = [];
+  
+}
