@@ -21,3 +21,9 @@ function addElementToArray(array){
 var entrepreneurs = ["Elizabeth Holmes", "Laurene Jobs", "Arianna Huffington"];
 var bio = " is the co-founder and editress-in-chief of the Huffington Post";
 console.log(entrepreneurs[2] + bio);
+
+// **************************************
+
+function accessElementFromArray(states){
+  return states[2];
+}
