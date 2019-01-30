@@ -1,5 +1,5 @@
 'use strict';
 
 function createArray(){
-  ["snickers", "hundred grand", "kitkat", "skittles"]
+  return ["snickers", "hundred grand", "kitkat", "skittles"]
 }
