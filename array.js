@@ -62,5 +62,5 @@ letters.forEach(function(letter, index){
 
 function iterateArray(numbers){
   var newNums = [];
-  
+
 }
