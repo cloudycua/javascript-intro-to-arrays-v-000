@@ -62,5 +62,9 @@ letters.forEach(function(letter, index){
 
 function iterateArray(numbers){
   var newNums = [];
+  var i
+  numbers.forEach(function(number, index) {
+    number + 5
+  })
 
 }
