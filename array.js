@@ -12,4 +12,5 @@ evenNumbers[3] = 8;
 
 function addElementToArray(array){
   array.push("A Christmas Story");
+  return array;
 }
