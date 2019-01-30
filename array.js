@@ -18,4 +18,5 @@ function addElementToArray(array){
 
 // **************************************
 
-var entrepreneurs = ["Elizabeth Holmes", Laurene Jobs", "Arianna Huffington"];
+var entrepreneurs = ["Elizabeth Holmes", "Laurene Jobs", "Arianna Huffington"];
+console.log(entrepreneurs[2] + bio);
