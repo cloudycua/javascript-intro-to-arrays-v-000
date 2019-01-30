@@ -45,6 +45,6 @@ var removedFishes = myFish.splice(0, 2, "parrot", "anemone", "blue");
 // removedFishes is ["angel", "clown"]
 
 function removeElementFromArray(array){
-  var removeItems = array.splice(2, 2, "Roast Checken");
+  var removeItems = array.splice(2, 2, "Roast Chicken");
   return array
 }
