@@ -33,3 +33,9 @@ function accessElementFromArray(states){
 function replaceElementInArray(names){
   return names[1] = "Carter";
 }
+
+// **************************************
+
+var myFish = ["angel", "clown", "drum", "mandarin", "surgeon"];
+var firstRemovedFish = myFish.splice(3,1);  // removes [3] "mandarin"
+var secondRemoved
