@@ -48,3 +48,10 @@ function removeElementFromArray(array){
   var removeItems = array.splice(2, 2, "Roast Chicken");
   return array;
 }
+
+// **************************************
+
+var letters = ["z", "y", "x", "w", "v", "u", "t", "s"];
+letters.forEach(function(letter) {
+  console.log("*" + letter + "*");
+});
