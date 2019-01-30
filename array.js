@@ -5,7 +5,6 @@ function createArray(){
 }
 
 var evenNumber = new Array();
-
 evenNumbers[0] = 2;
 evenNumbers[1] = 4;
 evenNumbers[3] = 8;
