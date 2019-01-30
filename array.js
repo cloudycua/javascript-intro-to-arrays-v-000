@@ -31,5 +31,5 @@ function accessElementFromArray(states){
 // **************************************
 
 function replaceElementFromArray(names){
-  return names[1] = "Carter";
+  names[1] = "Carter";
 }
