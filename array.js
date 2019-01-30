@@ -27,3 +27,9 @@ console.log(entrepreneurs[2] + bio);
 function accessElementFromArray(states){
   return states[2];
 }
+
+// **************************************
+
+function replaceElementFromArray(names){
+  return names[1] = "Carter";
+}
