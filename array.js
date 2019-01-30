@@ -65,5 +65,5 @@ function iterateArray(numbers){
   numbers.forEach(function(number, index) {
     newNums[index] = number + 5;
   })
-
+  return newNums;
 }
