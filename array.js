@@ -4,6 +4,8 @@ function createArray(){
   return ["snickers", "hundred grand", "kitkat", "skittles"];
 }
 
+// *************************************
+
 var evenNumber = new Array();
 evenNumbers[0] = 2;
 evenNumbers[1] = 4;
@@ -13,3 +15,7 @@ function addElementToArray(array){
   array.push("A Christmas Story");
   return array;
 }
+
+// **************************************
+
+var entrepreneurs = ["Elizabeth Holmes", Laurene Jobs", "Arianna Huffington"];
