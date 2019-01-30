@@ -43,4 +43,3 @@ var secondRemovedFish = myFish.splice(2, 1, "trumpet"); // removes [2] "drum" re
 // myFish is ["parrot", "anemone", "blue", "trumpet", "surgeon"]
 // removedFishes is ["angel", "clown"]
 var removedFishes = myFish.splice(0, 2, "parrot", "anemone", "blue");
-
