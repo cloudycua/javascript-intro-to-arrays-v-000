@@ -30,7 +30,7 @@ function accessElementFromArray(states){
 
 // **************************************
 
-function replaceElementFromArray(names){
+function replaceElementInArray(names){
   names[1] = "Carter";
   return names[1];
 }
