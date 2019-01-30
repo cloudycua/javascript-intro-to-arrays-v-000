@@ -38,4 +38,4 @@ function replaceElementInArray(names){
 
 var myFish = ["angel", "clown", "drum", "mandarin", "surgeon"];
 var firstRemovedFish = myFish.splice(3,1);  // removes [3] "mandarin"
-var secondRemoved
+var secondRemovedRish = myFish.splice(2, 1, "trumpet");
