@@ -55,3 +55,7 @@ var letters = ["z", "y", "x", "w", "v", "u", "t", "s"];
 letters.forEach(function(letter) {
   console.log("*" + letter + "*");
 });
+letters.forEach(function(letter, index){
+  var number = index + 1;
+  console.log(number + ". " + letter);
+})
